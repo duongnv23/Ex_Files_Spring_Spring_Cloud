@@ -1,0 +1,63 @@
+GET http://localhost:8001/rooms?roomNumber=O5
+Host: localhost:8001
+
+<> 2019-04-18T062106.200.json
+
+###
+
+GET http://localhost:8001/rooms?roomNumber=05
+Host: localhost:8001
+
+<> 2019-04-18T062102.200.json
+
+###
+
+GET http://localhost:8001/rooms?roomNumber=M31
+Host: localhost:8001
+
+<> 2019-04-18T062048.200.json
+
+###
+
+GET http://localhost:8001/rooms
+Host: localhost:8001
+
+<> 2019-04-18T062045.200.json
+
+###
+
+GET http://localhost:8001/rooms?roomNumber=M31
+Host: localhost:8001
+
+<> 2019-04-18T062042.200.json
+
+###
+
+GET http://localhost:8001/rooms?roomNumber=M3
+Host: localhost:8001
+
+<> 2019-04-18T062040.200.json
+
+###
+
+GET http://localhost:8001/rooms
+Host: localhost:8001
+
+<> 2019-04-18T062033.200.json
+
+###
+
+GET http://localhost:8001/rooms?roomNumber=W4
+Host: localhost:8001
+
+<> 2019-04-18T062004.200.json
+
+###
+
+GET http://localhost:8001/rooms
+Host: localhost:8001
+
+<> 2019-04-18T061932.200.json
+
+###
+

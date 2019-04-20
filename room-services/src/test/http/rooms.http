@@ -1,0 +1,10 @@
+
+GET /rooms
+Host: localhost:8001
+
+###
+
+GET /rooms?roomNumber=O5
+Host: localhost:8001
+
+###
